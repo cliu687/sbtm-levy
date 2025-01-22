@@ -1,4 +1,4 @@
-# Score-Based Transport Modeling
+# L\'{e}vy Score and Score-Based Particle Algorithm
 This repository provides an efficient implementation in ``jax`` of the score-based transport modeling algorithm for solving the Fokker-Planck equation in high dimension. This method may also find applications in flow-based solutions of other high-dimensional partial differential equations using machine learning.
 
 # Installation
