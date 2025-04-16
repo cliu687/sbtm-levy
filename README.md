@@ -21,3 +21,12 @@ If you found this repository useful, please consider citing
 [2] Huang, Yuanfei, Chengyu Liu, Bing Miao, and Xiang Zhou.
 "Entropy Production in Non-Gaussian Active Matter: A Unified Fluctuation Theorem and Deep Learning Framework."
 arXiv preprint arXiv:2504.06628 (2025).
+```
+@article{huang2025entropy,
+  title={Entropy Production in Non-Gaussian Active Matter: A Unified Fluctuation Theorem and Deep Learning Framework},
+  author={Huang, Yuanfei and Liu, Chengyu and Miao, Bing and Zhou, Xiang},
+  journal={arXiv preprint arXiv:2504.06628},
+  year={2025}
+}
+```
+
