@@ -9,7 +9,8 @@ The implementation is built on Google's [``jax``](https://github.com/google/jax)
 - **`levy-score/`**: Implements the score-based particle algorithm for solving nonlinear L\'{e}vy-Fokker-Planck equations. This method provides efficient solutions to high-dimensional PDEs influenced by non-Gaussian noise.
   
 - **`EPR-levy/`**: Provides a deep learning framework for analyzing entropy production in non-Gaussian active matter systems, based on a unified fluctuation theorem.
-- 
+
+
 # Referencing
 If you found this repository useful, please consider citing
 
