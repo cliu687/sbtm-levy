@@ -1,10 +1,15 @@
-# L\'{e}vy Score and Score-Based Particle Algorithm
+# L\'{e}vy Score and EPR-L\'{e}vy
 This repository provides an efficient implementation in ``jax`` of the score-based transport modeling algorithm for solving the Fokker-Planck equation in high dimension analyzing entropy production in non-Gaussian active matter. This method may also find applications in flow-based solutions of other high-dimensional partial differential equations using machine learning.
 
 # Installation
 The implementation is built on Google's [``jax``](https://github.com/google/jax) package for accelerated linear algebra and DeepMind's [``haiku``](https://github.com/deepmind/dm-haiku) package for neural networks. Both can be installed by following the guidelines at the linked repositories.
 
+## Repository Structure
 
+- **`levy-score/`**: Implements the score-based particle algorithm for solving nonlinear L\'{e}vy-Fokker-Planck equations. This method provides efficient solutions to high-dimensional PDEs influenced by non-Gaussian noise.
+  
+- **`EPR-levy/`**: Provides a deep learning framework for analyzing entropy production in non-Gaussian active matter systems, based on a unified fluctuation theorem.
+- 
 # Referencing
 If you found this repository useful, please consider citing
 
